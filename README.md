@@ -1,2 +1,2 @@
 # PokePi
-A Dumbed Down Pokemon For Raspberri Pi Breadboarding
+A Dumbed Down Pokemon Game For Raspberri Pi Breadboarding
