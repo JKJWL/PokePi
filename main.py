@@ -14,7 +14,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#this is what I have so far will be 
-#further updating as this concept is
-#really fun never worked with a visual program in python so I am going to do it.
